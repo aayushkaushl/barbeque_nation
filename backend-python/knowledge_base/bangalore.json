@@ -1,0 +1,59 @@
+
+{
+  "faqs": [
+    {
+      "question": "Timings",
+      "answer": "Barbeque Nation Bangalore is open from 12:00 PM to 11:00 PM on all days..."
+    },
+    {
+      "question": "Offers",
+      "answer": "Lunch buffet offers start from Rs. 699 for weekdays..."
+    },
+        {
+      "question": "hi",
+      "answer": "Hello! Welcome to Barbeque Nation Bangalore. How can I help you today?"
+    },
+    {
+      "question": "how can I make a reservation?",
+      "answer": "You can make a reservation by telling me your preferred time, date, and number of guests."
+    },
+    
+    {
+      "question": "what are the timings?",
+      "answer": "Barbeque Nation Bangalore is open from 12:00 PM to 11:00 PM on all days."
+    },
+    {
+      "question": "what are the offers?",
+      "answer": "Lunch buffet offers start from Rs. 699 for weekdays."
+    },
+    {
+      "question": "what is the location?",
+      "answer": "Barbeque Nation Bangalore is located at Connaught Place, New Delhi."
+    },
+    {
+      "question": "what is the contact number?",
+      "answer": "The contact number for Barbeque Nation Delhi is +91-1234567890."
+    },
+    {
+      "question": "what is the menu?",
+      "answer": "The menu includes a variety of grilled dishes, main courses, and desserts."
+    },
+    {
+      "question": "do you have vegetarian options?",
+      "answer": "Yes, we have a wide range of vegetarian options available."
+    },
+    {
+      "question": "is there a kids menu?",
+      "answer": "Yes, we have a special kids menu with various options."
+    },
+    {
+      "question": "do you offer home delivery?",
+      "answer": "Currently, we do not offer home delivery services."
+    },
+    {
+      "question": "can I book a private event?",
+      "answer": "Yes, you can book a private event. Please contact us for more details."
+    }
+
+  ]
+}

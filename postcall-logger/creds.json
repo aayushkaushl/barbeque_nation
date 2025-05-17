@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "agentops-logger",
+  "private_key_id": "8276235b6a86ebe42ee21f597676df0a4f2b1de1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDP+E4SguYehSgl\nsMwHd8cb1GpxeSNNEELZx4Z2wviK5EwMnA4+XadAU8Dkh/e4LW7+l+wQA6T8I83/\nzDRno6aXRLhp4Gmk7Tm5d3EyykxBVJAiP2YaR2bKRcwon1+o3Ddv4TB2ILP08b+n\nOkmzwlKAw9vy2vEST8Q9kbwt6gkrFQrg1PSGXHuiM11YyprbyVPzjist6A7/yR6h\npa2B0IQshVojAPLM7YAbFm49O3wBcWHh8Uw9u909o/cux7JvAyQLGaXPNyhOZXVT\n+S2M4kyE7b/zM55qh8OK/VbCm9TF0Kk6eh8lnGTTYvfM2LRbNlSeeY0Dq7vjiIAP\nu+3NjOZBAgMBAAECggEAVaq+3jk1eZT4OK5fHSRlzDzvq9ZuiCwOnY7nALzHjM8F\n1Jvj8iS55HGbn4eyrxdoBU+nWeFmcMZ+8MO5QofS87THEjXyzpE5mgBtjLJwPukK\nhlD/Sgvnd6LQulsMGI6990QXplFKT7fVbplACuAdBBWp4Jv3eceJ2qLRlUg2hpvh\nsFJId873xZ77itraoSkihJmFMnQh7saodHrYTbk2NnY32tXX8zuj0MUi5KPLw3rg\nJdpPDBU87NEuc20bQR2LulbBpDWgyvIScGA0cFkchbz2a9DaJC/HAaN1U1YAx1H6\nYXqYFEAvnLgutzAhzs+R0v4RUmCGF+OOOIL4MhGWEQKBgQD54wDtp5yoh5Wk5QTw\ndO5cA0XFXnoDem4yR2O/FbtJX+3Olq+8SjaN/LOPVefghJiJ76gdpKbrbxA203m9\n4TlsrwVge/Pu8w81FFa5kNrwZ7tmz42mUHf9WloX/zgsi1SYF3MBGkZt4hbMS9nt\na/kTuLGmFQA82GyBcMpTYzJ9EwKBgQDVDsithYBx6vKtF+ETeNZOVIkXhRJI8UPK\n1Eo7HUjkny8PRj3XZ/BYYNVQOep+x8ZWI0UnGk/Xun3LxK67LieqKR0SNA1GoJxV\n2KnN1s2eqCntBucxXluuz4wnmTc8+8H1af0M/G0aql4UOEqXwflP5OjS3L+r3+PC\nkxkLl+Rd2wKBgCsDcTh3Xpb/57lflq8RYapDAfKMZbJNk8Rh14Cf7AIgWh3ygEOH\n/sYIFpx4rBZQnLU5pJWdrwHdt0vIsS8HIsxbgDBwhbe+7QI1AwykK5uwL2juFzLm\nrRDWSaXRz8iTHzei6a/p5u+pOEVoVRXyPQixBRtSiBzxIBRT5u/dpmYzAoGAH8cv\nuWnzKYqgnZ61LIFWfaJwPDjV7FlIAkW9uKl6iNcRXtbcPHe9SoFO78NjrXtAovJp\nyxZKmGOxhaYVZcfRlLjDJEbtP/6OsuM5GIGUc7ijYD4qV5u6Uw2T2wgoTAlE+cTQ\nQJKZ92M32w42WgJNnFQJQgI4+HrRbuEf2DHUlwcCgYAWvKMmEdb41hRRgh4fq9Cm\nRtMjmWKp/2HC+l/bMIFgqqYofQwcKTCZenhVZL0NfkitNfDLuiVVTeFf3B7Ebx8j\nDFiJPxOFBcd90Luq0PE7CJoXjYPzv0BJlFFEszZ+Kyf45EzuBd3m6oGxRNd2lq+z\nurcODiIzaNkTKwpKQuk08g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "agentops-logger@agentops-logger.iam.gserviceaccount.com",
+  "client_id": "118413866463860395200",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/agentops-logger%40agentops-logger.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
